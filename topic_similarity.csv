@@ -1,0 +1,41 @@
+reagan_topic_id,reagan_label,trump_topic_id,trump_label,cosine_similarity
+1,soviet | war | power | peace,2,hillary | clinton | hillary clinton | isis,0.4909242302742415
+1,soviet | war | power | peace,4,trump | donald trump | donald | god,0.4307890105350837
+1,soviet | war | power | peace,1,hes | think | doing | got,0.42733999433984865
+1,soviet | war | power | peace,7,hillary | clinton | obamacare | hillary clinton,0.3136862206510069
+5,recession | workers | generation | carter,4,trump | donald trump | donald | god,0.30209671133648774
+1,soviet | war | power | peace,8,clinton | hillary clinton | hillary | african,0.2787394564292068
+4,economic | strategy | tax | carter,2,hillary | clinton | hillary clinton | isis,0.27703241749445817
+5,recession | workers | generation | carter,2,hillary | clinton | hillary clinton | isis,0.25039646939929605
+1,soviet | war | power | peace,6,biden | joe | joe biden | click,0.2453650830541321
+3,credit | principles | wed | society,4,trump | donald trump | donald | god,0.22983492566724634
+3,credit | principles | wed | society,2,hillary | clinton | hillary clinton | isis,0.2195584127407963
+3,credit | principles | wed | society,1,hes | think | doing | got,0.2152874722937331
+5,recession | workers | generation | carter,1,hes | think | doing | got,0.21466424510304147
+4,economic | strategy | tax | carter,4,trump | donald trump | donald | god,0.2109579554380622
+4,economic | strategy | tax | carter,1,hes | think | doing | got,0.20011558259685136
+1,soviet | war | power | peace,5,trade | agreement | economic policy | trade agreement,0.1960508211952429
+5,recession | workers | generation | carter,8,clinton | hillary clinton | hillary | african,0.1872217696347611
+5,recession | workers | generation | carter,7,hillary | clinton | obamacare | hillary clinton,0.184480795359655
+4,economic | strategy | tax | carter,7,hillary | clinton | obamacare | hillary clinton,0.1688479565807265
+4,economic | strategy | tax | carter,8,clinton | hillary clinton | hillary | african,0.16871319403982873
+4,economic | strategy | tax | carter,5,trade | agreement | economic policy | trade agreement,0.1665240673254728
+3,credit | principles | wed | society,8,clinton | hillary clinton | hillary | african,0.1623971703492853
+3,credit | principles | wed | society,7,hillary | clinton | obamacare | hillary clinton,0.1596002790788744
+5,recession | workers | generation | carter,5,trade | agreement | economic policy | trade agreement,0.144350230796386
+1,soviet | war | power | peace,3,fracking | fossil | fossil fuel | gas,0.1434777095694216
+2,ticket | felt | conclusion | tradition,1,hes | think | doing | got,0.1363533622356963
+5,recession | workers | generation | carter,6,biden | joe | joe biden | click,0.13188977081259481
+4,economic | strategy | tax | carter,6,biden | joe | joe biden | click,0.12257833476426731
+2,ticket | felt | conclusion | tradition,4,trump | donald trump | donald | god,0.12084857840074967
+3,credit | principles | wed | society,6,biden | joe | joe biden | click,0.11409361438461198
+3,credit | principles | wed | society,5,trade | agreement | economic policy | trade agreement,0.08507255525110645
+4,economic | strategy | tax | carter,3,fracking | fossil | fossil fuel | gas,0.08091654032274982
+2,ticket | felt | conclusion | tradition,6,biden | joe | joe biden | click,0.07756102433832143
+5,recession | workers | generation | carter,3,fracking | fossil | fossil fuel | gas,0.07478509501741824
+2,ticket | felt | conclusion | tradition,2,hillary | clinton | hillary clinton | isis,0.07308361793906885
+2,ticket | felt | conclusion | tradition,8,clinton | hillary clinton | hillary | african,0.052378263738011445
+3,credit | principles | wed | society,3,fracking | fossil | fossil fuel | gas,0.04904225364954764
+2,ticket | felt | conclusion | tradition,7,hillary | clinton | obamacare | hillary clinton,0.045267006492406704
+2,ticket | felt | conclusion | tradition,3,fracking | fossil | fossil fuel | gas,0.030632676102029622
+2,ticket | felt | conclusion | tradition,5,trade | agreement | economic policy | trade agreement,0.02039737857652049
